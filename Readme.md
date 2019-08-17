@@ -11,7 +11,7 @@ Java - 1.8.x, Mysql - 5.x.x and Maven - 3.x.x.
 **1. Clone the application from github**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/soufianeje/Blog-Comments-API-Rest.git
 ```
 
 **2. Create Mysql database using command line or directly using Wamp Server**
@@ -58,4 +58,3 @@ The application defines the following CRUD HTTP Methods.
     DELETE /comments/{id}
 
 The methods can be tested using Postman or any Rest Client.
-# Blog-Comments-API-Rest
